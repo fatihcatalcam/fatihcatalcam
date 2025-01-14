@@ -23,7 +23,7 @@ Harmony is a platform designed to connect people based on their music listening 
 - **University**: Università degli Studi Niccolò Cusano  
 
 ## 💼 My Other Projects  
-### 🍽️ Restaurant Management System  
+### 🍽️ DOY DOY Restaurant Management System  
 - **Description**: A Java-based application that simplifies the management of user profiles, addresses, products, and orders.  
   ([Project Repository](https://github.com/fatihcatalcam/Restaurant-Management-System))  
 
