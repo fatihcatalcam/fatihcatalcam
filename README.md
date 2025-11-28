@@ -23,6 +23,18 @@ Harmony is a platform designed to connect people based on their music listening 
 - **University**: Università degli Studi Niccolò Cusano  
 
 ## 💼 My Other Projects  
+### ✋ DSP Gesture Recognition System
+
+- **Description**: A machine learning based gesture classification system using accelerometer data.
+
+  - 3 gesture types: LEFT / RIGHT / UP
+    
+  -  Feature extraction, low–pass filtering, PCA visualization
+    
+  -  ML models tested: KNN, SVM, RandomForest
+    
+   - Achieved ~80% test accuracy
+ ([Project Repository](https://github.com/fatihcatalcam/DSP_Gesture_Project))
 ### 🍽️ DOY DOY Restaurant Management System  
 - **Description**: A Java-based application that simplifies the management of user profiles, addresses, products, and orders.  
   ([Project Repository](https://github.com/fatihcatalcam/Restaurant-Management-System))  
