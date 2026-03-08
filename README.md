@@ -1,101 +1,153 @@
-# 👋 Hi, I'm Fatih Çatalçam!
+# 👋 Hi, I'm Fatih Çatalçam
 
-## 🎵 Harmony: A Music and Social Connection Platform  
-**The project I'm currently working on: Harmony**  
-Harmony is a platform designed to connect people based on their music listening habits.  
-
-- **Key Features**:  
-  - Users can connect their Spotify accounts and share information like their most-listened-to artists, songs, and genres  
-  - Users can swipe right or left on other profiles to match  
-  - Matched users can view more profile details and start messaging  
-  - Aiming to provide a minimalist design and a unique experience for music lovers  
-
-- **Technologies Used**:  
-  - Python (Flask)  
-  - HTML / CSS / JavaScript  
-  - SQLite  
-  - Spotify API  
-
-[Check Out the Harmony Project Repository](https://github.com/fatihcatalcam/harmony-backend)  
+Computer Engineering student passionate about **software systems, automation platforms, and backend architecture**.
+I enjoy building real-world software projects that combine **automation, infrastructure, and scalable system design**.
 
 ---
 
-## 🎓 Education  
-- **University**: Istanbul Arel University  
-- **University**: Università degli Studi Niccolò Cusano  
+# 🚀 Featured Projects
+
+## 🤖 Comp-Bot – Distributed Automation Platform
+
+A modular browser automation platform designed to monitor visa appointment availability and manage automated workflows.
+
+**Key Features**
+
+* Multi-session browser automation
+* Web-based control dashboard
+* API-driven bot management
+* Infrastructure monitoring
+* Designed for continuous VPS deployment
+
+**Tech Stack**
+
+* Python
+* FastAPI
+* Selenium / undetected-chromedriver
+* Docker
+* Redis
+* PostgreSQL
+* Prometheus
+* Grafana
+
 
 ---
 
-## 💼 My Projects  
+## 🎵 Harmony – Music Based Social Platform
 
-### 🏨 Hotel Reservation System  
-- **Description**:  
-  A console-based Java application developed using Object-Oriented Programming principles.  
-  The system allows users to view available rooms, make and cancel reservations, process payments, and persist data using CSV files.
+A platform designed to connect users based on their music listening habits.
 
-- **Key Features**:  
-  - Room management with different room types (Standard / Deluxe)  
-  - Reservation creation and cancellation  
-  - Payment handling using interface-based design  
-  - Data persistence using CSV files  
-  - Unit testing with JUnit  
+**Features**
 
-- **Technologies Used**:  
-  - Java  
-  - OOP (Encapsulation, Inheritance, Polymorphism)  
-  - JUnit 5  
-  - CSV file handling  
+* Spotify account integration
+* Music taste matching
+* User swipe & match system
+* Messaging after match
 
-[Project Repository](https://github.com/fatihcatalcam/HotelReservationSystem)
+**Tech Stack**
+
+* Python (Flask)
+* HTML / CSS / JavaScript
+* SQLite
+* Spotify API
+
+🔗 https://github.com/fatihcatalcam/harmony-backend
 
 ---
 
-### ✋ DSP Gesture Recognition System  
-- **Description**:  
-  A machine learning based gesture classification system using accelerometer data.
+## ✋ DSP Gesture Recognition System
 
-  - 3 gesture types: LEFT / RIGHT / UP  
-  - Feature extraction, low-pass filtering, PCA visualization  
-  - ML models tested: KNN, SVM, RandomForest  
-  - Achieved ~80% test accuracy  
+Machine learning based gesture recognition using accelerometer sensor data.
 
-[Project Repository](https://github.com/fatihcatalcam/DSP_Gesture_Project)
+**Highlights**
 
----
+* Gesture classification (LEFT / RIGHT / UP)
+* Feature extraction and signal filtering
+* PCA visualization
+* ML models: KNN, SVM, RandomForest
+* ~80% test accuracy
 
-### 🍽️ DOY DOY Restaurant Management System  
-- **Description**:  
-  A Java-based application that simplifies the management of user profiles, addresses, products, and orders.  
-
-[Project Repository](https://github.com/fatihcatalcam/Restaurant-Management-System)  
+🔗 https://github.com/fatihcatalcam/DSP_Gesture_Project
 
 ---
 
-### 🔍 Mod Detector  
-- **Description**:  
-  An automation tool for the game Growtopia that ensures account security during AFK farming and detects moderators.  
+## 🍽️ DOY DOY Restaurant Management System
 
-[Project Repository](https://github.com/fatihcatalcam/Mod-detector)  
+Java application designed for managing restaurant users, orders, and products.
 
----
+**Tech Stack**
 
-## 🛠️ Technical Skills  
-- **Programming Languages**:  
-  - Java, Python  
+* Java
+* Object-Oriented Programming
+* File persistence
 
-- **Technologies**:  
-  - Flask  
-  - Spotify API  
-  - Object-Oriented Programming  
-  - SQLite  
-  - File Management  
+🔗 https://github.com/fatihcatalcam/Restaurant-Management-System
 
 ---
 
-## 📫 Contact  
-- **LinkedIn**:  
-  https://www.linkedin.com/in/fatih-%C3%A7atal%C3%A7am-a1a06a212/
+## 🏨 Hotel Reservation System
+
+Console-based Java reservation system developed with OOP principles.
+
+**Features**
+
+* Room management
+* Reservation system
+* Payment interface design
+* Unit testing with JUnit
+
+🔗 https://github.com/fatihcatalcam/HotelReservationSystem
 
 ---
 
-🎧 **If you're interested in my projects combining software engineering, data processing, and real-world applications, feel free to follow my profile!**
+# 🧠 Technical Skills
+
+**Languages**
+
+* Python
+* Java
+
+**Backend & Automation**
+
+* FastAPI
+* Flask
+* Selenium
+* API Development
+
+**Infrastructure**
+
+* Docker
+* Redis
+* PostgreSQL
+
+**Monitoring**
+
+* Prometheus
+* Grafana
+
+**Concepts**
+
+* Object-Oriented Programming
+* System Architecture
+* Automation Systems
+
+---
+
+# 🎓 Education
+
+**Istanbul Arel University**
+Computer Engineering
+
+**Università degli Studi Niccolò Cusano**
+
+---
+
+# 📫 Contact
+
+LinkedIn
+https://www.linkedin.com/in/fatih-%C3%A7atal%C3%A7am-a1a06a212/
+
+---
+
+⭐ I enjoy building systems that combine **automation, infrastructure, and backend engineering**.
+Feel free to explore my repositories.
