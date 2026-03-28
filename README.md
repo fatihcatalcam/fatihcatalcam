@@ -7,6 +7,31 @@ I enjoy building real-world software projects that combine **automation, infrast
 
 # 🚀 Featured Projects
 
+## 🧠 CVision – AI-Powered CV Analyzer SaaS Platform
+
+A SaaS-based platform designed to help users analyze and improve their CVs before applying for internships and jobs.
+
+**Key Features**
+
+* CV upload (PDF / TXT) and automated text extraction
+* Rule-based CV analysis and scoring system
+* ATS (Applicant Tracking System) compatibility evaluation
+* Personalized improvement suggestions
+* Career role recommendation engine
+* Multi-user SaaS architecture with data isolation
+* Background processing and analysis status tracking
+
+**Tech Stack**
+
+* Python (FastAPI)
+* React + TypeScript + Vite
+* SQLAlchemy + Alembic
+* SQLite / PostgreSQL
+* PyMuPDF (PDF parsing)
+* JWT Authentication
+
+---
+
 ## 🤖 Comp-Bot – Distributed Automation Platform
 
 A modular browser automation platform designed to monitor visa appointment availability and manage automated workflows.
@@ -29,7 +54,6 @@ A modular browser automation platform designed to monitor visa appointment avail
 * PostgreSQL
 * Prometheus
 * Grafana
-
 
 ---
 
