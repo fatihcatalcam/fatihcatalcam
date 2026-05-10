@@ -32,7 +32,7 @@ A SaaS-based platform designed to help users analyze and improve their CVs befor
 
 ---
 
-## 🤖 Comp-Bot – Distributed Automation Platform
+## 🤖 Visa Appointment Automation System – Distributed Automation Platform
 
 A modular browser automation platform designed to monitor visa appointment availability and manage automated workflows.
 
