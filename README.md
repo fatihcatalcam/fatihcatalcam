@@ -29,8 +29,8 @@ A SaaS-based platform designed to help users analyze and improve their CVs befor
 * SQLite / PostgreSQL
 * PyMuPDF (PDF parsing)
 * JWT Authentication
-* 
-🔗 https://github.com/fatihcatalcam/CVision
+  
+🔗 https://github.com/fatihcatalcam/CVision 
 ---
 
 ## 🤖 Visa Appointment Automation System – Distributed Automation Platform
