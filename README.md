@@ -63,7 +63,7 @@ A distributed browser-automation platform monitoring visa appointment slots in r
 
 - 🚦 Scales to **100 concurrent bot sessions** on a single VPS
 - 🎛️ FastAPI backend + Vite web control panel to launch, track, and stop automation jobs **without redeployment**
-- 📊 Full observability stack — Prometheus metrics and Grafana dashboards for session health and failure rates
+- 📊 Full observability stack: Prometheus metrics and Grafana dashboards for session health and failure rates
 - 🐳 Containerized with Docker Compose for **one-command VPS deployment**
 - 🔄 Proxy rotation and OTP/IMAP handling keep sessions running uninterrupted
 
@@ -71,12 +71,12 @@ A distributed browser-automation platform monitoring visa appointment slots in r
 
 ---
 
-### 🧠 CVision — AI-Powered CV Analyzer (SaaS)
+### 🧠 CVision: AI-Powered CV Analyzer (SaaS)
 ![Status](https://img.shields.io/badge/status-live-2EA043?style=flat-square) ![Users](https://img.shields.io/badge/users-250%2B-8B5CF6?style=flat-square) ![Tests](https://img.shields.io/badge/tests-577-2F81F7?style=flat-square)
 
-A live SaaS that scores CVs for ATS compatibility — built, launched, and operated end to end. 🌐 [cvisionapp.com](https://cvisionapp.com)
+A live SaaS that scores CVs for ATS compatibility, built, launched, and operated end to end. 🌐 [cvisionapp.com](https://cvisionapp.com)
 
-- 🔍 **ATS X-Ray** — renders a CV exactly as a parsing engine reads it, exposing structural failures invisible in the original layout
+- 🔍 **ATS X-Ray** renders a CV exactly as a parsing engine reads it, exposing structural failures invisible in the original layout
 - 🎯 Job description matching with keyword gap analysis and LLM rewriting
 - 💳 Credit system as an **append-only ledger**: automatic refunds on failed analyses, idempotent payment webhooks
 - ⚡ Async processing pipeline with job status tracking and startup recovery
@@ -93,7 +93,7 @@ A live SaaS that scores CVs for ATS compatibility — built, launched, and opera
 
 A booking platform with a web widget and a WhatsApp bot, **replacing manual phone booking**.
 
-- 💸 Fixed a Postgres cost bug by replacing constant polling with an in-memory cache — **~90% less compute**
+- 💸 Fixed a Postgres cost bug by replacing constant polling with an in-memory cache, cutting compute usage by **~90%**
 - 🗓️ Admin dashboard with live scheduling, per-barber payouts, and a separately authenticated revenue page
 - 📲 WhatsApp, SMS, and email notifications routed by booking source
 
@@ -108,7 +108,7 @@ A booking platform with a web widget and a WhatsApp bot, **replacing manual phon
 
 A two-branch stock, order, and delivery system for a furniture retailer, **in daily use**.
 
-- 📒 Stock modelled as an **append-only movement ledger** — every quantity stays traceable
+- 📒 Stock modelled as an **append-only movement ledger**, so every quantity stays traceable
 - 🛡️ Per-branch data isolation enforced **in the type system**: a missing scope fails at compile time, not silently in production
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Drizzle](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat-square&logo=drizzle&logoColor=black) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
@@ -130,7 +130,7 @@ A two-branch stock, order, and delivery system for a furniture retailer, **in da
 
 ## 💼 Experience
 
-**AI Data Annotation Specialist** — *Mindy Support* · `May 2025 – Present`
+**AI Data Annotation Specialist** @ *Mindy Support* · `May 2025 – Present`
 
 - Evaluate multimodal AI model outputs against structured validation rubrics, sustaining accuracy above the project quality threshold
 - Perform root-cause error analysis on LLM responses, flagging factual, reasoning, and formatting issues that feed into model retraining
