@@ -99,6 +99,8 @@ A booking platform with a web widget and a WhatsApp bot, **replacing manual phon
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL_(Neon)-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![WhatsApp](https://img.shields.io/badge/WhatsApp_Business_API-25D366?style=flat-square&logo=whatsapp&logoColor=white) ![Google Sheets](https://img.shields.io/badge/Google_Sheets_API-34A853?style=flat-square&logo=googlesheets&logoColor=white) ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
 
+🔗 **Repository:** [fatihcatalcam/Berber_Randevu_Sistemi](https://github.com/fatihcatalcam/Berber_Randevu_Sistemi)
+
 ---
 
 ### 📦 Warehouse & Order Management System
@@ -110,6 +112,8 @@ A two-branch stock, order, and delivery system for a furniture retailer, **in da
 - 🛡️ Per-branch data isolation enforced **in the type system**: a missing scope fails at compile time, not silently in production
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Drizzle](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat-square&logo=drizzle&logoColor=black) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+🔗 **Repository:** [fatihcatalcam/Depo-System](https://github.com/fatihcatalcam/Depo-System)
 
 ---
 
